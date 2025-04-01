@@ -24,7 +24,7 @@ I enjoy finding patterns, solving problems, and building clean, insightful dashb
 
 ### 🚀 Projects
 
-🔗 Check out my full project portfolio here: [**Project Portfolio →**](https://github.com/yourusername/your-project-repo)  
+🔗 Check out my full project portfolio here: [**Project Portfolio →**](https://github.com/EduardTadevosyan/Projects).
 Here are a few highlights:
 
 #### 📊 Customer Churn Prediction App  
