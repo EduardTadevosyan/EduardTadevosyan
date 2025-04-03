@@ -31,7 +31,7 @@ I enjoy finding patterns, solving problems, and building clean, insightful dashb
 - Apache Spark (PySpark)
 - Advanced DAX for Power BI
 - Statistical modeling & storytelling with data
-- python
+- Python
 ---
 ---
 
