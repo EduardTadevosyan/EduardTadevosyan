@@ -25,39 +25,14 @@ I enjoy finding patterns, solving problems, and building clean, insightful dashb
 ### 🚀 Projects
 
 🔗 Check out my full project portfolio here: [**Project Portfolio →**](https://github.com/EduardTadevosyan/Projects).
-Here are a few highlights:
-
-#### 📊 Customer Churn Prediction App  
-A Streamlit app that predicts telecom customer churn using a trained classification model.  
-**Tools:** Python, Pandas, Scikit-learn, Streamlit  
-[GitHub ↗](https://github.com/yourusername/churn-prediction)
-
-#### 📈 Sales Performance Dashboard  
-Interactive Power BI dashboard visualizing sales KPIs, trends, and regional insights.  
-**Tools:** Power BI, DAX, Excel  
-[GitHub ↗](https://github.com/yourusername/sales-dashboard)
-
-#### 🧹 Data Cleaning with Python  
-Jupyter Notebook project showcasing end-to-end data wrangling and preprocessing.  
-**Tools:** Python, Pandas, NumPy  
-[GitHub ↗](https://github.com/yourusername/data-cleaning)
-
----
 
 ### 🧠 Currently Learning
 
 - Apache Spark (PySpark)
 - Advanced DAX for Power BI
 - Statistical modeling & storytelling with data
-
+- python
 ---
-
-### 📫 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
 ---
 
 ⭐️ *Thanks for visiting! I’m always open to collaboration or new ideas—feel free to reach out!*
