@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eduard Tadevosyan 👋</h1>
 
-<p align="center">Aspiring Data Analyst | SQL • Power BI • Python | Passionate about turning data into stories 📊</p>
+<p align="center">Aspiring Data Analyst | SQL • Power BI • Python | Passionate about turning data into stories </p>
 
 ---
 
